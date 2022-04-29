@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liambardong
 - 👀 I’m interested in Cloud Computing, Data Structures, Algorithms, Distributed Systems and ML
-- 🌱 I’m currently learning to develop in flutter
+- 🌱 I’m currently learning to develop in React
 - 📫 How to reach me lbardong5@gmail.com
 
 <!---
